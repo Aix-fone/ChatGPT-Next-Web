@@ -155,7 +155,7 @@ export function SideBar(props: { className?: string }) {
     >
       <div className={styles["sidebar-header"]} data-tauri-drag-region>
         <div className={styles["sidebar-title"]} data-tauri-drag-region>
-          Aix's AIChat
+          九佛中学 AIChat demo
         </div>
         <div className={styles["sidebar-sub-title"]}>
           欢迎使用生成式人工智能对话模型！
