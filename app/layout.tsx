@@ -10,7 +10,7 @@ import { GoogleTagManager } from "@next/third-parties/google";
 const serverConfig = getServerSideConfig();
 
 export const metadata: Metadata = {
-  title: "Aix's Chat",
+  title: "九佛中学人工智能课程——AIchat",
   description: "欢迎使用生成式人工智能对话模型！",
   viewport: {
     width: "device-width",
