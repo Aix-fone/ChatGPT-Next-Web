@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     { media: "(prefers-color-scheme: dark)", color: "#151515" },
   ],
   appleWebApp: {
-    title: "Aix's Chat",
+    title: "九佛中学人工智能课程——AIchat",
     statusBarStyle: "default",
   },
 };
